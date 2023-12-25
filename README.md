@@ -19,15 +19,15 @@
 ## Cloning
 ### Cloning with HTTPS
 ```
-https://github.com/RedEdge967/RedEdge967.github.io.git
+https://github.com/K3NOXOFFICIAL/K3NOXOFFICIAL.github.io.git
 ```
 ### Cloning with SSH
 ```
-git@github.com:RedEdge967/RedEdge967.github.io.git
+git@github.com:K3NOXOFFICIAL/K3NOXOFFICIAL.github.io.git
 ```
 ### Cloning with Github CLI
 ```
-gh repo clone RedEdge967/RedEdge967.github.io
+gh repo clone K3NOXOFFICIAL/K3NOXOFFICIAL.github.io
 ```
 ---
 ## How to make your own website like this?
